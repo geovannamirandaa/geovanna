@@ -1,0 +1,2 @@
+# geovanna
+Trabalho pensamento computacional
